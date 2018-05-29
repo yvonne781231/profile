@@ -1,0 +1,11 @@
+
+
+hr{
+	max-width:1000px;
+
+	border-width:3px;
+
+	border-color:#cccccc}
+
+hr.light{border-color:#cccccc}
+
